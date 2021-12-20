@@ -1,7 +1,5 @@
 <h1 align="center">- 👋 Hi, I’m [Juan Pedro](https://www.linkedin.com/in/juan-pedro-trionfini-front-end/) 😄👋</h1>
 <hr>
-[Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
-
 
 ```javascript
 const aboutMe = {
