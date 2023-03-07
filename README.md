@@ -5,16 +5,17 @@
 
 ```javascript
 const aboutMe = {
-   code: "Javascript",
+   code: ["Javascript","JAVA", "KOTLIN","C", "PASCAL"];
    technologies: {
       frontEnd: {
          learned: ["HTML", "CSS", "JS", "Bootstrap 5", "SASS", "GIT"],
          "for-learning": ["React","Angular", "VUE"]
       },
       backEnd: {
-        "addToLearningList": true
+         learned: [, "SPRING", "POSTMAN", "API RESTFULL"],
+         "for-learning": ["React","Angular", "VUE"]
       },
-      databases: ["SQL","learning"],
+      databases: ["SQL", "DBEAVER", "POSTGRES"],
    },
    currentOccupation: ["student, open for job opportunities"],
    challenge: "become a Full-Stack developer",
