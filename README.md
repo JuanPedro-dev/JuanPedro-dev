@@ -13,7 +13,7 @@ const aboutMe = {
       },
       backEnd: {
          learned: [, "SPRING", "POSTMAN", "API RESTFULL"],
-         "for-learning": ["React","Angular", "VUE"]
+         "for-learning": ["jwt","docker", "mil_cosas_mas"]
       },
       databases: ["SQL", "DBEAVER", "POSTGRES"],
    },
