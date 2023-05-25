@@ -8,14 +8,14 @@ const aboutMe = {
    code: ["Javascript","JAVA", "KOTLIN","C", "PASCAL"];
    technologies: {
       frontEnd: {
-         learned: ["HTML", "CSS", "JS", "Bootstrap 5", "SASS", "GIT"],
+         learned: ["HTML", "CSS", "JS", "Bootstrap 5", "SASS", "GIT", "GITHUB"],
          "for-learning": ["React","Angular", "VUE"]
       },
       backEnd: {
          learned: [, "SPRING", "POSTMAN", "API RESTFULL"],
          "for-learning": ["jwt","docker", "mil_cosas_mas"]
       },
-      databases: ["SQL", "DBEAVER", "POSTGRES"],
+      databases: ["MySQL", "DBEAVER", "POSTGRES"],
    },
    currentOccupation: ["student, open for job opportunities"],
    challenge: "become a Full-Stack developer",
@@ -35,8 +35,11 @@ const aboutMe = {
    <br>
   Eso nunca paso, pero mis estudios me llevaron a dar clases en un centro de formación como profesor de “Armado y reparación de PC”, enseñaba software, hardware, redes, etc. Aunque me sentía a gusto, nuevamente la economía me obliga a salirme del camino (la pandemia llego y me desvincularon de la empresa por cierre indefinido). 
   <br>
-   Ya con tiempo para invertir que mejor que hacerlo en algo de interés y allí comienza mi viaje… 
+   Recientemente tuve mi primer experiencia laboral en programación como Desarrollador Backend, aprendí mucho, principalmente a trabajar en equipo, a manejar mis tiempos y que muchas veces es simplemente hablar con la persona adecuada. 
    <br>
+   Hoy por hoy, vuelvo a la busqueda de empleo mientras termino mis estudios. 
+   Deseame suerte y que tengas un excelente día. 🤗
+    <br>
    
 
 
